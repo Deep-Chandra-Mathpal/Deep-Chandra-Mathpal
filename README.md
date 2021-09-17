@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Deep-Chandra-Mathpal
-- 👀 I’m interested in innovative projects
-- 🌱 I’m currently learning data structures and algorithms 
-- ✍ I’m also familiar with C, C++, java, MySql and web development
-- 🤝 You can also contact me for any assistance from my side
-- 📫 How to reach me : email - dm.mathpal777@gmail.com
+Hey there -
+
+<br>My name is Deep Chandra Mathpal. Currently i am a 3rd year student at College of Technology, G.B.P.U.A&T, Pantnagar.
+<br>I am very enthusiastic about technology, have a good knowledge of Data structures, Algorithms, C, C++ and also familier with Python & Basics of AI and ML.
+<br>Currently i am actively looking for an internship on fields related to software engineering, software developer, cloud computing and devops.
+<br>Contact - dm.mathpal777@gmail.com
 
 <!---
 Deep-Chandra-Mathpal/Deep-Chandra-Mathpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
