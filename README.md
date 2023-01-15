@@ -17,7 +17,7 @@
 <br>
 <br>
 
-**connect** - [Linkedln](https://www.linkedin.com/in/deepchandramathpal/)
+**Connect ->**  [Linkedln](https://www.linkedin.com/in/deepchandramathpal/)
 <!---
 Deep-Chandra-Mathpal/Deep-Chandra-Mathpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
