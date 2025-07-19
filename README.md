@@ -1,39 +1,45 @@
-# Hey there 👋
+# 👋 Hey there!
 
-### ***Deep Chandra Mathpal (B.Tech computer engineering)***
-<br>
+## 👨‍💻 Deep Chandra Mathpal  
+### 🎓 B.Tech in Computer Engineering  
+🔍 Cybersecurity Engineer | Threat Hunter | Developer | Lifelong Learner  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepchandramathpal/)
 
-- #### Main technology
-  - Incident Response, Threat Analysis, ARcsight SIEM, Google SecOps SOAR, Malware Development & AnalysisT, hreat Hunting, CrowdStrike, Netskope, Proxy, DLP, C++,        Data Structure, Algorithm, Git, Python, DBMS, Javascript, MERN Stack
-- #### Familarity
-  - Machine Learning, Data science, Artificial Intelligence
-- #### Other Technology
-  - Most welcome (ready to learn)
-<br>
-<br>
+---
 
-> #### *Let's learn together.*
-> #### *if you want any help or need a company, please give me a message (i am looking for opportunities as well).*
-<br>
+### 🚀 Core Technologies  
+- **Cybersecurity**: Incident Response, Threat Hunting, Malware Analysis, Threat Intelligence, CrowdStrike EDR, Google SecOps SOAR, ArcSight SIEM, Netskope, Proxy, DLP  
+- **Programming & Development**: Python, C++, JavaScript, MERN Stack  
+- **Computer Science Fundamentals**: Data Structures & Algorithms, DBMS, Git
 
-**Connect ->**  [Linkedln](https://www.linkedin.com/in/deepchandramathpal/)
+---
 
-<hr style="border:2px solid gray">
+### 📚 Additional Interests  
+- Machine Learning, Artificial Intelligence, Data Science  
+- Always open to learning new technologies 💡
+
+---
+
+### 🤝 Let’s Connect  
+> *"Let’s grow and learn together!"*  
+> If you're looking for collaboration or want to talk tech (or just need company), feel free to drop me a message.  
+> I'm also open to new opportunities 🚀
+
+---
+
+## 📂 Featured Repositories
+
+| Project | Description |
+|--------|-------------|
+| 🔗 [**Scripts**](https://github.com/Deep-Chandra-Mathpal/scripts) | Bypassing CrowdStrike EDR and creating a reverse shell. *(For educational purposes only)* |
+| 🔗 [**LMS using Blockchain**](https://github.com/Deep-Chandra-Mathpal/lms-using-blockchain) | Library Management System using Blockchain technology. |
+| 🔗 [**AI**](https://github.com/Deep-Chandra-Mathpal/AI) | Tic Tac Toe using Minimax, Alpha-Beta Pruning & Reinforcement Learning. |
+| 🔗 [**Contact Router**](https://github.com/Deep-Chandra-Mathpal/contact_router) | C++ application to retrieve contact details using C++, Python, SQLite3, Telegram Bot API. |
+| 🔗 [**Movie Recommender**](https://github.com/Deep-Chandra-Mathpal/movie_recommender) | Movie recommendation system using regression algorithms. |
+| 🔗 [**DS & Algo**](https://github.com/Deep-Chandra-Mathpal/ds_algo) | Implementation of core Data Structures & Algorithms in C++. |
+
+---
+
 <!---
 Deep-Chandra-Mathpal/Deep-Chandra-Mathpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
-Repositiries - 
-
-<br> https://github.com/Deep-Chandra-Mathpal/scripts </br>
-<br> - for bypassing CrowdStrike EDR and creating a reverse shell </br>
-<br> https://github.com/Deep-Chandra-Mathpal/lms-using-blockchain </br>
-<br> Library management project using blockchain technology</br>
-<br>https://github.com/Deep-Chandra-Mathpal/AI</br>
-<br>TIC TAC TOE using minimax, alpha beta pruning & reinforcement learning</br>
-<br>https://github.com/Deep-Chandra-Mathpal/contact_router</br>
-<br>A C++ application is used to retrieve contact information about a person living in a particular area and having some relation with the user. It integrates C++, Python, SQLite3, Telegram Bot API, and a single file that stores the graph data structure in a systematic manner</br>
-<br>https://github.com/Deep-Chandra-Mathpal/movie_recommender</br>
-<br>Movie recommender system via regression algorithm</br>
-<br>https://github.com/Deep-Chandra-Mathpal/ds_algo</br>
-<br>Implementation of all data structure & algorithms</br>
