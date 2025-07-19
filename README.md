@@ -4,7 +4,7 @@
 <br>
 
 - #### Main technology
-  - C++, Data Structure, Algorithm, Git, Python, DBMS, Javascript,  MERN Stack
+  - Incident Response, Threat Analysis, ARcsight SIEM, Google SecOps SOAR, Malware Development & AnalysisT, hreat Hunting, CrowdStrike, Netskope, Proxy, DLP, C++,        Data Structure, Algorithm, Git, Python, DBMS, Javascript, MERN Stack
 - #### Familarity
   - Machine Learning, Data science, Artificial Intelligence
 - #### Other Technology
